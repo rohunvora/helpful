@@ -162,7 +162,3 @@ atvImg();
 // Write out what the tweet would say
 // Have a system for updating the website when something gets claimed
 // Figure out how to explain how what we're doing is cool
-
-// Goals: 
-// Drive celebrities/influencers to back the project
-// Drive Discord Invites + Twitter Followers
