@@ -160,7 +160,8 @@ body {
 
 #no {
 	font-size: 18px;
-	list-style: none;
+	margin-top: 0rem;
+	margin-bottom: 0rem;
 }
 
 li {
