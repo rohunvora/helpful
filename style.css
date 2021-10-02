@@ -6,6 +6,16 @@ body {
 	overflow-x: hidden;
 }
 
+#main-menu .nav-bar { white-space: nowrap; list-style:none; margin-top: 40px; text-align: right;}
+#main-menu .nav-bar li { display:inline; padding:0 10px; text-align: right; white-space: nowrap;}
+
+#main-menu .nav-bar li a {
+  text-decoration: none;
+  padding-right: 50px;
+  color: #fff;
+  white-space: nowrap;
+}
+
 /* toggle this class */
 
 .color-bg-start {
@@ -337,6 +347,16 @@ a {
 @media (min-width: 725px) {}
 
 @media (min-width: 200px) and (max-width: 550px) {
+
+#main-menu .nav-bar { white-space: nowrap; list-style:none; margin-top: 40px; text-align: center;}
+#main-menu .nav-bar li { display:inline; padding:0 10px; text-align: center; white-space: nowrap;}
+
+#main-menu .nav-bar li a {
+  text-decoration: none;
+  padding-right: 25px;
+  color: #fff;
+  white-space: nowrap;
+}
 
 	#no {
 		font-size: 16px;
