@@ -154,11 +154,10 @@ function atvImg(){
 atvImg();
 
 
-// Fix instructions to make sense + look clean
-// Figure out how to create embeds per each tweet
-// Create flow for non-celebrities
-	//write redirect script for all alternative pages
-// Make mobile responsive
-// Write out what the tweet would say
 // Have a system for updating the website when something gets claimed
+// Add "new tab" for all link clicks
+// reorganize website to have dope people on top
+// add webkit compatibility to everything
+// make instructions toggle?
+
 // Figure out how to explain how what we're doing is cool
