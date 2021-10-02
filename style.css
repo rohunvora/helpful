@@ -6,7 +6,7 @@ body {
 	overflow-x: hidden;
 }
 
-/* #main-menu .nav-bar { 
+#main-menu .nav-bar { 
 	white-space: nowrap; 
 	list-style: none; 
 	margin-top: 40px; 
@@ -24,7 +24,7 @@ body {
   padding-right: 50px;
   color: #fff;
   white-space: nowrap;
-} */
+}
 
 #navContainer {
 	display: flex;
